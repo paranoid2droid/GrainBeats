@@ -2,6 +2,8 @@
 
 A Drum Machine with a Digital Clock Modulation to Create Complex Groovy Rhythm Patterns
 
+**See video demo [here](https://youtu.be/KdxJaFsBaPY).**
+
 -------
 
 ## Introduction
